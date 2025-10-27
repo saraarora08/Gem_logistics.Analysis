@@ -14,19 +14,19 @@ Shipments - Shipment records with origin, destination, mode, cost, and status.
 
 ** Key Insights Covered:
 
-Total and regional freight revenue analysis
+Total and regional freight revenue analysis.
 
-Top-performing clients by revenue and credit usage
+Top-performing clients by revenue and credit usage.
 
-Shipment mode performance and delivery reliability
+Shipment mode performance and delivery reliability.
 
-Vehicle utilization and ROI insights
+Vehicle utilization and ROI insights.
 
 Monthly and route-level revenue trends
 
 
 ** Tools Used:
 
-MySQL - Data querying and analytics
+MySQL - Data querying and analytics.
 
-Excel - Synthetic data generation
+Excel - Synthetic data generation.
