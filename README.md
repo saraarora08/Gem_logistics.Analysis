@@ -16,13 +16,13 @@ Shipments - Shipment records with origin, destination, mode, cost, and status.
 
 Total and regional freight revenue analysis.
 
-Top-performing clients by revenue and credit usage.
+Top performing clients by revenue and credit usage.
 
 Shipment mode performance and delivery reliability.
 
 Vehicle utilization and ROI insights.
 
-Monthly and route-level revenue trends
+Monthly and route level revenue trends
 
 
 ** Tools Used:
